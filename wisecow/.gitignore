@@ -1,0 +1,8 @@
+# TLS private keys
+certs/tls.key
+
+# Kubernetes local configuration
+.kube/
+
+# Generated FIFO response
+response
